@@ -1,4 +1,6 @@
 package interfaces;
 
-public interface SomeOtherInterface {
+public interface SomeOtherInterface
+{
+    public void doSomeOther();
 }

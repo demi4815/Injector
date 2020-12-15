@@ -1,0 +1,2 @@
+interfaces.SomeInterface=implementationOfInterfaces.SomeImpl
+interfaces.SomeOtherInterface=implementationOfInterfaces.SODoer
